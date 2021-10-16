@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: 'val lambda: (Int) -> Int = TODO("Provide implementation")'
+  learner_created: false
+- name: src/qwe.kt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6162#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 15 Oct 2021 06:54:24 UTC
+record: -1
